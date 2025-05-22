@@ -77,9 +77,4 @@ MovieLens 100K
 
 > 🔧 Built by **Harsh Porwal** for educational purposes.
 
-```
 
----
-
-Let me know if you'd like to convert it into a `.md` file directly or need help pushing it to your GitHub repo.
-```
